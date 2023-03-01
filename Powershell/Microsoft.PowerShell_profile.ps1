@@ -17,5 +17,5 @@ Register-Alias .. "cd .."
     
 
 Register-Alias gita "git add ."
-Register-Alias gitm "git commit -m"
+Register-Alias gitm "git commit"
 Register-Alias gitp "git push"
